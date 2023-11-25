@@ -1,0 +1,12 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: tuo-dan-user
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 39.108.219.176:8848
+      config:
+        server-addr: 39.108.219.176:8848
+        file-extension: yml

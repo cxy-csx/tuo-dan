@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.csx.common.exception.GlobalExceptionHandle,\
+  com.csx.common.swagger.Knife4jConfig
