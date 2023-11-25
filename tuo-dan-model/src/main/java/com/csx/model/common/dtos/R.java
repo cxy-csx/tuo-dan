@@ -159,7 +159,7 @@ public class R<T> implements Serializable {
         PageResponseResult responseResult = new PageResponseResult(1,5,50);
         List list = new ArrayList();
         list.add("itcast");
-        list.add("itheima");
+        list.add("csx");
         responseResult.setData(list);
         System.out.println(JSON.toJSONString(responseResult));
 

@@ -2,7 +2,7 @@ server:
   port: 9000
 spring:
   application:
-    name: tuo-dan-gateway
+    name: tuo-dan-user-gateway
   cloud:
     nacos:
       discovery:
